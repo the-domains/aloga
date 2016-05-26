@@ -1,0 +1,14 @@
+layout_spectrum: 0.10851804376579821
+typography_spectrum: 0.5606426340527833
+color:
+  brandStrength: 0.3407065256033093
+  lightness: 0.9435458146035671
+  saturation: 0.16464613866992295
+  rhythmicContrast: 0.7608660410623997
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: aloga
